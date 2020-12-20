@@ -4,8 +4,8 @@
 
 #### Platform
 
-[![MacOS](https://img.shields.io/badge/MacOS-10.15.6-999999?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/macos/)
-[![Debian](https://img.shields.io/badge/Debian-9-a81d33?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org/)
+[![MacOS](https://img.shields.io/badge/MacOS-10.15.7-999999?style=flat-square&logo=Apple&logoColor=white)](https://www.apple.com/macos/)
+[![ArchLinux](https://img.shields.io/archlinux/v/core/x86_64/linux-headers?style=flat-square&logo=Arch-Linux&logoColor=white&label=Arch)](https://archlinux.org/)
 
 [![Emacs](https://img.shields.io/badge/Emacs-27.1-7f5ab6?style=flat-square&logo=GNU-Emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
 [![Spacemacs](https://img.shields.io/badge/Spacemacs-develop-9266cc?style=flat-square&logo=Spacemacs&logoColor=white)](https://www.spacemacs.org/)
